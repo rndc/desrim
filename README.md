@@ -22,7 +22,7 @@ maka saya bikin sembari iseng-iseng aja memory allocator ini. Ya pokoke begitula
 Ah iya hampir lupa, ini dibuat lisensinya BSD Lisence, sama dengan yang dipake FreeBSD aja,
 soalnya paling maknyos menurut saya
 
-Desrim memory allocator idenya muncul setelah saya ngutak ngatik Hoard Memory Allocator,
+Desrim memory allocator idenya muncul setelah saya ngutak ngatik **Hoard Memory Allocator**,
 yang katanya sih Hoard itu multithreaded, tapiiipaaaak saya sedih bukan kepalang, lantaran itu Hoard
 dibikinnya pake C++ yang sumpah deh booo paling males saya liatnya karena pake cyin cyin gitu syntaxnya.
 Maka dari itu saya buat aja ini Desrim dari C, selain enteng, enteng jodoh, dan mudah dalam
